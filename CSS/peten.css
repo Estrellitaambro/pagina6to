@@ -1,0 +1,69 @@
+body{
+
+     background: url("../CSS/imagen/descarga (1).jpg");
+}
+    div{
+    width: 75%;
+   background: #408ee0;
+   margin: 25px;
+   padding: 15px;
+   border: 5px solid #d8a4c1;
+    }
+
+h1{
+    color: rgb(188, 20, 20);
+    text-align: center;
+    font-size: 55px;
+    font-family : 'Monotype Corsiva' ;
+}
+
+h2{
+    color: rgb(57, 235, 78);
+    text-align: left;
+    font-size: 45px;
+    font-family : 'Broadway' ;
+}
+p{
+    color: rgb(74, 36, 17);
+    text-align: justify;
+    font-size: 15px;
+    font-family : 'Arial Black' ;
+}
+  
+    img{
+       width: 350px;
+       height: 250px;
+    margin: 45px ;
+    align-items: center;
+    border-radius: 50px;
+    border: 8px solid #de1d87;
+
+    }
+    
+a{
+
+ font-size:25px ;
+text-decoration:none ;
+margin: 20px;
+background-color: rgb(3, 15, 44);
+padding: 5px;
+display: inline-block;
+color: #eb0f0f;
+box-shadow: 8px 8px 8px #e88a17 ;
+}
+
+a:hover{
+
+    box-shadow: 4px 4px 4px #907786;
+    background: rgb(118, 255, 189);
+    color: rgb(22, 125, 195)
+
+}  
+
+a:active{
+box-shadow: none;
+background: #385d55;
+color:rgb(227, 73, 178);
+
+
+}
